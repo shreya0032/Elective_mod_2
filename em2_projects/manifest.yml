@@ -1,0 +1,6 @@
+---
+applications:
+- name: webbaapp-653001
+  memory: 64M
+  host: webbaapp-653001
+  domain: eu-gb.mybluemix.net
